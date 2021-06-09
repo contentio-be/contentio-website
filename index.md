@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Contentio - Lobbyschermen voor uw appartementsgebouw
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: De schermen van Contentio zijn speciaal ontworpen om in de inkomhal van uw appartementsgebouw, de bewoners te informeren op een moderne en eenvoudige manier.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Contentio - Lobbyschermen voor uw appartementsgebouw
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+De schermen van Contentio zijn speciaal ontworpen om in de inkomhal van uw appartementsgebouw, de bewoners te informeren op een moderne en eenvoudige manier.
