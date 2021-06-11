@@ -1,5 +1,5 @@
 ---
-title: Contentio - Lobbyschermen voor uw residentie
+title: Lobbyschermen voor uw residentie
 layout: home
 description: Ontvang bewoners en bezoekers met een mooi scherm met relevante informatie, en schrik ze niet af met een slordig prikbord.
 intro_image: "images/illustrations/pointing.svg"
