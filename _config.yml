@@ -8,8 +8,8 @@ homepage:
   show_call_box: true
 
 logo:
-  mobile: "images/logo/just-icon.png"
-  desktop: "images/logo/logo-horizontal.png"
+  mobile: "images/logo/logo_only_transparant.png"
+  desktop: "images/logo/logo_transparent-dark-horizontal.png"
   desktop_height: "36px"
 
 footer:
