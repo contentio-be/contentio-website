@@ -1,12 +1,12 @@
 [
   {
     "title": "Tony, Concierge Crutzenhof Hasselt",
-    "description": "Dit oogt veel moderner, onze bewoners zijn alvast zeer blij dat ons oude prikbord is vervangen",
+    "description": "&quote; Dit oogt veel moderner, onze bewoners zijn alvast zeer blij dat ons oude prikbord is vervangen &quote;",
     "image": "images/features/crutzenhof.png"
   },
   {
     "title": "Jelle, Syndicusdiensten.be",
-    "description": "Voor onze klanten is dit zeker een meerwaarde.",
-    "image": "images/features/syndicusdiensten.be"
+    "description": "&quote; Voor onze klanten is dit zeker een meerwaarde. &quote;",
+    "image": "images/features/syndicusdiensten.png"
   }
 ]
