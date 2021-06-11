@@ -6,4 +6,4 @@ weight: 5
 layout: service
 ---
 Deel aankondigingen en mededelingen.
-![Aankondigingen](/images/services/services-announcements.png)
+![Aankondigingen](/images/services/services-announcement.png)
